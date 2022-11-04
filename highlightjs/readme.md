@@ -1,0 +1,3 @@
+可直接在highlightjs官方网站起步
+加入highlightjs-line-numbers可以显示行号
+highlightjs有很多的主题，可以引入不同的url使用不同的主题
